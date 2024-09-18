@@ -60,3 +60,7 @@ Aşağıda kullanılan modeller ve ilgili performans skorları verilmiştir:
 
 ### Sonuç
 Bu proje, makine öğrenmesi teknikleri ile kredi kartı dolandırıcılığını başarıyla tespit etmiştir. En iyi performansı sağlayan model **Random Forest** olmuştur. Gelecekte, hiperparametre optimizasyonları ve ek özellik mühendisliği ile daha da yüksek doğruluk oranları elde edilebilir.
+
+## Veri Seti
+
+Bu proje, kredi kartı dolandırıcılığını tespit etmek için kullanılan veri setini içermektedir. Veri seti hakkında detaylı bilgiye [Kaggle veri seti sayfasından](https://www.kaggle.com/datasets/kadiraltiparmak/kredi-kart-dolandrcl-tespiti) ulaşabilirsiniz.
